@@ -72,7 +72,7 @@ ecommerce-website/
 ![e](https://github.com/user-attachments/assets/4846de75-41e6-4b0e-8e90-6e4934f9f708)
 ![d](https://github.com/user-attachments/assets/f2b114dd-e1d2-4f2f-9c07-1640be8a70fb)
 
-**Mido Khaled**  
+**mohamed adel**  
 Frontend Developer & Designer
 
 
